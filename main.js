@@ -8,7 +8,9 @@ import {
   deleteDoc,
   updateDoc,
   doc,
-  getDoc
+  getDoc,
+  query,
+  where
 } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-firestore.js";
 
  //GANTI DENGAN FIREBASE CONFIG ANDA
